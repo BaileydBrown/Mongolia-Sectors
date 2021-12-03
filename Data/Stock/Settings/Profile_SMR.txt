@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:*_OBS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
+
+PROFILE:*_DEL:20:2
+ATIS2:Callsign $radioname
+ATIS3:China RVSM in use - vats.im/rvsm
+ATIS4:
+
+PROFILE:*_GND:20:3
+ATIS2:Callsign $radioname
+ATIS3:China RVSM in use - vats.im/rvsm
+ATIS4:
+
+PROFILE:*_TWR:50:4
+ATIS2:Callsign $radioname
+ATIS3:China RVSM in use - vats.im/rvsm
+ATIS4:
+
+END

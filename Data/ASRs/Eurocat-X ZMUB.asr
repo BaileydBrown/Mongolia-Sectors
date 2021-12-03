@@ -1,0 +1,436 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZMAH:name
+Airports:ZMAH:symbol
+Airports:ZMAT:name
+Airports:ZMAT:symbol
+Airports:ZMBH:name
+Airports:ZMBH:symbol
+Airports:ZMBN:name
+Airports:ZMBN:symbol
+Airports:ZMBS:name
+Airports:ZMBS:symbol
+Airports:ZMBU:name
+Airports:ZMBU:symbol
+Airports:ZMCD:name
+Airports:ZMCD:symbol
+Airports:ZMCK:name
+Airports:ZMCK:symbol
+Airports:ZMDA:name
+Airports:ZMDA:symbol
+Airports:ZMDN:name
+Airports:ZMDN:symbol
+Airports:ZMDZ:name
+Airports:ZMDZ:symbol
+Airports:ZMGT:name
+Airports:ZMGT:symbol
+Airports:ZMHG:name
+Airports:ZMHG:symbol
+Airports:ZMHH:name
+Airports:ZMHH:symbol
+Airports:ZMKB:name
+Airports:ZMKB:symbol
+Airports:ZMKD:name
+Airports:ZMKD:symbol
+Airports:ZMMG:name
+Airports:ZMMG:symbol
+Airports:ZMMN:name
+Airports:ZMMN:symbol
+Airports:ZMTL:name
+Airports:ZMTL:symbol
+Airports:ZMTT:name
+Airports:ZMTT:symbol
+Airports:ZMUB:name
+Airports:ZMUB:symbol
+Airports:ZMUG:name
+Airports:ZMUG:symbol
+Airports:ZMUH:name
+Airports:ZMUH:symbol
+Airports:ZMUL:name
+Airports:ZMUL:symbol
+ARTCC boundary:Non Radar Area:
+ARTCC boundary:Procedural Control Line:
+ARTCC boundary:ZMUB Ulaanbaatar FIR:
+ARTCC high boundary:ZMUB TMA:
+Fixes:AGRON:symbol
+Fixes:ALBAT:symbol
+Fixes:ALTAN:symbol
+Fixes:AMINA:symbol
+Fixes:AMLUN:symbol
+Fixes:AMUTA:symbol
+Fixes:ANAND:symbol
+Fixes:ANIKU:symbol
+Fixes:ANUDA:symbol
+Fixes:AREBO:symbol
+Fixes:ARGAT:symbol
+Fixes:ARHAN:symbol
+Fixes:ASGAT:symbol
+Fixes:BAGAT:symbol
+Fixes:BAMUK:symbol
+Fixes:BARUN:symbol
+Fixes:BAVUT:symbol
+Fixes:BAYAN:symbol
+Fixes:BIDUN:symbol
+Fixes:BIKOT:symbol
+Fixes:BINDE:symbol
+Fixes:BUDEN:symbol
+Fixes:BUGAN:symbol
+Fixes:BUGAT:symbol
+Fixes:BULAG:symbol
+Fixes:BUMAT:symbol
+Fixes:BUREG:symbol
+Fixes:BUREN:symbol
+Fixes:BURIM:symbol
+Fixes:DADAL:symbol
+Fixes:DALAM:symbol
+Fixes:DARNO:symbol
+Fixes:DAVST:symbol
+Fixes:DEGIR:symbol
+Fixes:DELEG:symbol
+Fixes:DILES:symbol
+Fixes:DIROT:symbol
+Fixes:DONOI:symbol
+Fixes:DUGAR:symbol
+Fixes:DULAN:symbol
+Fixes:EMAND:symbol
+Fixes:EPKUT:symbol
+Fixes:ERDEM:symbol
+Fixes:ERKEM:symbol
+Fixes:ESMEP:symbol
+Fixes:FOSAT:symbol
+Fixes:GANGA:symbol
+Fixes:GEREL:symbol
+Fixes:GINOM:symbol
+Fixes:GOBEZ:symbol
+Fixes:GUMEN:symbol
+Fixes:HADAN:symbol
+Fixes:HARUS:symbol
+Fixes:HASHA:symbol
+Fixes:HATGA:symbol
+Fixes:HOBUL:symbol
+Fixes:HORGO:symbol
+Fixes:HORIN:symbol
+Fixes:HOTOL:symbol
+Fixes:HUJIR:symbol
+Fixes:HUTUL:symbol
+Fixes:IMBAT:symbol
+Fixes:INTIK:symbol
+Fixes:KABOZ:symbol
+Fixes:KATBA:symbol
+Fixes:KHOVD:symbol
+Fixes:LAGON:symbol
+Fixes:LETBI:symbol
+Fixes:LIMAR:symbol
+Fixes:MANLA:symbol
+Fixes:MENOR:symbol
+Fixes:MIDAS:symbol
+Fixes:MINOG:symbol
+Fixes:MODOT:symbol
+Fixes:MODUN:symbol
+Fixes:MORIT:symbol
+Fixes:NARAN:symbol
+Fixes:NIGOR:symbol
+Fixes:NIXAL:symbol
+Fixes:NOMUN:symbol
+Fixes:NOPUS:symbol
+Fixes:OVOOT:symbol
+Fixes:PARAL:symbol
+Fixes:PASON:symbol
+Fixes:PICAS:symbol
+Fixes:PIKOM:symbol
+Fixes:PIMIT:symbol
+Fixes:POLHO:symbol
+Fixes:POMAZ:symbol
+Fixes:PRING:symbol
+Fixes:RIPEK:symbol
+Fixes:SADOG:symbol
+Fixes:SAGIL:symbol
+Fixes:SAGIM:symbol
+Fixes:SANOT:symbol
+Fixes:SARAN:symbol
+Fixes:SARUL:symbol
+Fixes:SERAT:symbol
+Fixes:SERNA:symbol
+Fixes:SETEM:symbol
+Fixes:SILUS:symbol
+Fixes:SONDU:symbol
+Fixes:SUDAL:symbol
+Fixes:SULOK:symbol
+Fixes:SUMBE:symbol
+Fixes:SUMOR:symbol
+Fixes:TAMSA:symbol
+Fixes:TANAN:symbol
+Fixes:TANUK:symbol
+Fixes:TARAG:symbol
+Fixes:TARIA:symbol
+Fixes:TAYAN:symbol
+Fixes:TEBUS:symbol
+Fixes:TEKOR:symbol
+Fixes:TEMEN:symbol
+Fixes:TEMUK:symbol
+Fixes:TOSOG:symbol
+Fixes:TSONJ:symbol
+Fixes:TUDEV:symbol
+Fixes:TURAR:symbol
+Fixes:TURBA:symbol
+Fixes:TURUN:symbol
+Fixes:TYCON:symbol
+Fixes:UENCH:symbol
+Fixes:UGOBI:symbol
+Fixes:ULGII:symbol
+Fixes:ULZIT:symbol
+Fixes:URGAM:symbol
+Fixes:VIZOT:symbol
+Fixes:ZAHIR:symbol
+Fixes:ZAMUS:symbol
+Fixes:ZOBUL:symbol
+Free Text:Copyright\Copyright (C) 2020 VATPRC. All Rights Reserved.:freetext
+High airways:A308:line
+High airways:A310:line
+High airways:A573:line
+High airways:A575:line
+High airways:A822:line
+High airways:A937:line
+High airways:B161:line
+High airways:B208:line
+High airways:B330:line
+High airways:B339:line
+High airways:B480:line
+High airways:B928:line
+High airways:G218:line
+High airways:G230:line
+High airways:G338:line
+High airways:G343:line
+High airways:G588:line
+High airways:H1:line
+High airways:H10:line
+High airways:H108:line
+High airways:H12:line
+High airways:H2:line
+High airways:H20:line
+High airways:H21:line
+High airways:H25:line
+High airways:H341:line
+High airways:H6:line
+High airways:H8:line
+High airways:H82:line
+High airways:H84:line
+High airways:H86:line
+High airways:J10:line
+High airways:J14:line
+High airways:J16:line
+High airways:J2:line
+High airways:J22:line
+High airways:J4:line
+High airways:J61:line
+High airways:J62:line
+High airways:J64:line
+High airways:J66:line
+High airways:J8:line
+High airways:R366:line
+High airways:R372:line
+High airways:R378:line
+High airways:V11:line
+High airways:V13:line
+High airways:V31:line
+High airways:V33:line
+High airways:V35:line
+High airways:V5:line
+High airways:V674:line
+High airways:V7:line
+High airways:V9:line
+High airways:Y165:line
+High airways:Y327:line
+High airways:Y345:line
+High airways:Y478:line
+High airways:Y520:line
+High airways:Y618:line
+High airways:Y683:line
+High airways:Y746:line
+High airways:Y962:line
+High airways:Z156:line
+NDBs:BH:symbol
+NDBs:DZ:symbol
+NDBs:HN:symbol
+NDBs:MU:symbol
+NDBs:OG:symbol
+NDBs:TC:symbol
+NDBs:UH:symbol
+NDBs:US:symbol
+Runways:ZMAH 14-32:extended centerline 1
+Runways:ZMAH 14-32:extended centerline 1 left ticks
+Runways:ZMAH 14-32:extended centerline 1 right ticks
+Runways:ZMAH 14-32:extended centerline 2
+Runways:ZMAH 14-32:extended centerline 2 left ticks
+Runways:ZMAH 14-32:extended centerline 2 right ticks
+Runways:ZMAT 10-28:extended centerline 1
+Runways:ZMAT 10-28:extended centerline 1 left ticks
+Runways:ZMAT 10-28:extended centerline 1 right ticks
+Runways:ZMAT 10-28:extended centerline 2
+Runways:ZMAT 10-28:extended centerline 2 left ticks
+Runways:ZMAT 10-28:extended centerline 2 right ticks
+Runways:ZMBH 16-34:extended centerline 1
+Runways:ZMBH 16-34:extended centerline 1 left ticks
+Runways:ZMBH 16-34:extended centerline 1 right ticks
+Runways:ZMBH 16-34:extended centerline 2
+Runways:ZMBH 16-34:extended centerline 2 left ticks
+Runways:ZMBH 16-34:extended centerline 2 right ticks
+Runways:ZMBN 13-31:extended centerline 1
+Runways:ZMBN 13-31:extended centerline 1 left ticks
+Runways:ZMBN 13-31:extended centerline 1 right ticks
+Runways:ZMBN 13-31:extended centerline 2
+Runways:ZMBN 13-31:extended centerline 2 left ticks
+Runways:ZMBN 13-31:extended centerline 2 right ticks
+Runways:ZMBS 17-35:extended centerline 1
+Runways:ZMBS 17-35:extended centerline 1 left ticks
+Runways:ZMBS 17-35:extended centerline 1 right ticks
+Runways:ZMBS 17-35:extended centerline 2
+Runways:ZMBS 17-35:extended centerline 2 left ticks
+Runways:ZMBS 17-35:extended centerline 2 right ticks
+Runways:ZMBU 18-36:extended centerline 1
+Runways:ZMBU 18-36:extended centerline 1 left ticks
+Runways:ZMBU 18-36:extended centerline 1 right ticks
+Runways:ZMBU 18-36:extended centerline 2
+Runways:ZMBU 18-36:extended centerline 2 left ticks
+Runways:ZMBU 18-36:extended centerline 2 right ticks
+Runways:ZMCD 12-30:extended centerline 1
+Runways:ZMCD 12-30:extended centerline 1 left ticks
+Runways:ZMCD 12-30:extended centerline 1 right ticks
+Runways:ZMCD 12-30:extended centerline 2
+Runways:ZMCD 12-30:extended centerline 2 left ticks
+Runways:ZMCD 12-30:extended centerline 2 right ticks
+Runways:ZMCK 11-29:extended centerline 1
+Runways:ZMCK 11-29:extended centerline 1 left ticks
+Runways:ZMCK 11-29:extended centerline 1 right ticks
+Runways:ZMCK 11-29:extended centerline 2
+Runways:ZMCK 11-29:extended centerline 2 left ticks
+Runways:ZMCK 11-29:extended centerline 2 right ticks
+Runways:ZMDA 14-32:extended centerline 1
+Runways:ZMDA 14-32:extended centerline 1 left ticks
+Runways:ZMDA 14-32:extended centerline 1 right ticks
+Runways:ZMDA 14-32:extended centerline 2
+Runways:ZMDA 14-32:extended centerline 2 left ticks
+Runways:ZMDA 14-32:extended centerline 2 right ticks
+Runways:ZMDN 16-34:extended centerline 1
+Runways:ZMDN 16-34:extended centerline 1 left ticks
+Runways:ZMDN 16-34:extended centerline 1 right ticks
+Runways:ZMDN 16-34:extended centerline 2
+Runways:ZMDN 16-34:extended centerline 2 left ticks
+Runways:ZMDN 16-34:extended centerline 2 right ticks
+Runways:ZMDZ 11-29:extended centerline 1
+Runways:ZMDZ 11-29:extended centerline 1 left ticks
+Runways:ZMDZ 11-29:extended centerline 1 right ticks
+Runways:ZMDZ 11-29:extended centerline 2
+Runways:ZMDZ 11-29:extended centerline 2 left ticks
+Runways:ZMDZ 11-29:extended centerline 2 right ticks
+Runways:ZMGT 18-36:extended centerline 1
+Runways:ZMGT 18-36:extended centerline 1 left ticks
+Runways:ZMGT 18-36:extended centerline 1 right ticks
+Runways:ZMGT 18-36:extended centerline 2
+Runways:ZMGT 18-36:extended centerline 2 left ticks
+Runways:ZMGT 18-36:extended centerline 2 right ticks
+Runways:ZMHG 15-33:extended centerline 1
+Runways:ZMHG 15-33:extended centerline 1 left ticks
+Runways:ZMHG 15-33:extended centerline 1 right ticks
+Runways:ZMHG 15-33:extended centerline 2
+Runways:ZMHG 15-33:extended centerline 2 left ticks
+Runways:ZMHG 15-33:extended centerline 2 right ticks
+Runways:ZMHH 01-19:extended centerline 1
+Runways:ZMHH 01-19:extended centerline 1 left ticks
+Runways:ZMHH 01-19:extended centerline 1 right ticks
+Runways:ZMHH 01-19:extended centerline 2
+Runways:ZMHH 01-19:extended centerline 2 left ticks
+Runways:ZMHH 01-19:extended centerline 2 right ticks
+Runways:ZMKB 16-34:extended centerline 1
+Runways:ZMKB 16-34:extended centerline 1 left ticks
+Runways:ZMKB 16-34:extended centerline 1 right ticks
+Runways:ZMKB 16-34:extended centerline 2
+Runways:ZMKB 16-34:extended centerline 2 left ticks
+Runways:ZMKB 16-34:extended centerline 2 right ticks
+Runways:ZMKD 16-34:extended centerline 1
+Runways:ZMKD 16-34:extended centerline 1 left ticks
+Runways:ZMKD 16-34:extended centerline 1 right ticks
+Runways:ZMKD 16-34:extended centerline 2
+Runways:ZMKD 16-34:extended centerline 2 left ticks
+Runways:ZMKD 16-34:extended centerline 2 right ticks
+Runways:ZMMG 18-36:extended centerline 1
+Runways:ZMMG 18-36:extended centerline 1 left ticks
+Runways:ZMMG 18-36:extended centerline 1 right ticks
+Runways:ZMMG 18-36:extended centerline 2
+Runways:ZMMG 18-36:extended centerline 2 left ticks
+Runways:ZMMG 18-36:extended centerline 2 right ticks
+Runways:ZMMN 10-28:extended centerline 1
+Runways:ZMMN 10-28:extended centerline 1 left ticks
+Runways:ZMMN 10-28:extended centerline 1 right ticks
+Runways:ZMMN 10-28:extended centerline 2
+Runways:ZMMN 10-28:extended centerline 2 left ticks
+Runways:ZMMN 10-28:extended centerline 2 right ticks
+Runways:ZMTL 10-28:extended centerline 1
+Runways:ZMTL 10-28:extended centerline 1 left ticks
+Runways:ZMTL 10-28:extended centerline 1 right ticks
+Runways:ZMTL 10-28:extended centerline 2
+Runways:ZMTL 10-28:extended centerline 2 left ticks
+Runways:ZMTL 10-28:extended centerline 2 right ticks
+Runways:ZMTT 15-33:extended centerline 1
+Runways:ZMTT 15-33:extended centerline 1 left ticks
+Runways:ZMTT 15-33:extended centerline 1 right ticks
+Runways:ZMTT 15-33:extended centerline 2
+Runways:ZMTT 15-33:extended centerline 2 left ticks
+Runways:ZMTT 15-33:extended centerline 2 right ticks
+Runways:ZMUB 14-32:extended centerline 1
+Runways:ZMUB 14-32:extended centerline 1 left ticks
+Runways:ZMUB 14-32:extended centerline 1 right ticks
+Runways:ZMUB 14-32:extended centerline 2
+Runways:ZMUB 14-32:extended centerline 2 left ticks
+Runways:ZMUB 14-32:extended centerline 2 right ticks
+Runways:ZMUB 15-33:extended centerline 1
+Runways:ZMUB 15-33:extended centerline 1 left ticks
+Runways:ZMUB 15-33:extended centerline 1 right ticks
+Runways:ZMUB 15-33:extended centerline 2
+Runways:ZMUB 15-33:extended centerline 2 left ticks
+Runways:ZMUB 15-33:extended centerline 2 right ticks
+Runways:ZMUG 13-31:extended centerline 1
+Runways:ZMUG 13-31:extended centerline 1 left ticks
+Runways:ZMUG 13-31:extended centerline 1 right ticks
+Runways:ZMUG 13-31:extended centerline 2
+Runways:ZMUG 13-31:extended centerline 2 left ticks
+Runways:ZMUG 13-31:extended centerline 2 right ticks
+Runways:ZMUH 06-24:extended centerline 1
+Runways:ZMUH 06-24:extended centerline 1 left ticks
+Runways:ZMUH 06-24:extended centerline 1 right ticks
+Runways:ZMUH 06-24:extended centerline 2
+Runways:ZMUH 06-24:extended centerline 2 left ticks
+Runways:ZMUH 06-24:extended centerline 2 right ticks
+Runways:ZMUL 13-31:extended centerline 1
+Runways:ZMUL 13-31:extended centerline 1 left ticks
+Runways:ZMUL 13-31:extended centerline 1 right ticks
+Runways:ZMUL 13-31:extended centerline 2
+Runways:ZMUL 13-31:extended centerline 2 left ticks
+Runways:ZMUL 13-31:extended centerline 2 right ticks
+Runways:ZMUL 13L-31R:extended centerline 1
+Runways:ZMUL 13L-31R:extended centerline 1 left ticks
+Runways:ZMUL 13L-31R:extended centerline 1 right ticks
+Runways:ZMUL 13L-31R:extended centerline 2
+Runways:ZMUL 13L-31R:extended centerline 2 left ticks
+Runways:ZMUL 13L-31R:extended centerline 2 right ticks
+VORs:SER:symbol
+VORs:SND:symbol
+VORs:UDA:symbol
+VORs:VGA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Eurocat-X
+WINDOWAREA:38.155991:80.311876:56.150445:129.950948
