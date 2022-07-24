@@ -1,3 +1,0 @@
-VOICE
-AG:ZMUB_CTR:126.000:novoice:zmub_ctr
-END
